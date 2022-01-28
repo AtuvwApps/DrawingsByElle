@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Drawings By Elle</string>
+    <string name="main_activity_error">Error no internet connection</string>
+    <string name="menu_about_title">About Me</string>
+    <string name="shopping_cart_content_description">Shopping Cart</string>
+    <string name="main_drawing_content_description">Category Picture</string>
+    <string name="selected_drawing_content_description">Selected Drawing</string>
+    <string name="size">Size: </string>
+    <string name="quantity">Quantity: </string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="back_to_browse">Back To Browse</string>
+    <string name="complete_order">Complete Order</string>
+    <string name="remove">Remove Item</string>
+    <string name="order_name">Name: </string>
+    <string name="order_enter_name">Enter name</string>
+    <string name="order_number">Number: </string>
+    <string name="order_enter_number">Enter number</string>
+    <string name="order_email">Email: </string>
+    <string name="order_enter_email">Enter email</string>
+    <string name="order_collection">Collection</string>
+    <string name="order_delivery">Delivery</string>
+    <string name="order_address1">Address Line 1: </string>
+    <string name="order_enter_address">Enter Address</string>
+    <string name="order_address2">Address Line 2: </string>
+    <string name="order_county">County: </string>
+    <string name="order_eircode">Eircode: </string>
+    <string name="order_enter_eircode">Enter eircode</string>
+    <string name="thankyou_header">Thank you for shopping with us!</string>
+    <string name="thankyou_order_number_">Your order number is: </string>
+    <string name="about_short_description_label">Hello, My name is Elle, I\'m a 23 year old artist based in Louth, Ireland. I have always
+        had a great passion for drawing and I\'m so happy to be able to share my work with you. </string>
+    <string name="about_short_statement_label">Please don\'t hesitate to contact me with any queries you may have regarding
+    orders or even just any general questions you may have about my art.</string>
+    <string name="contact_me">Contact me: </string>
+    <string name="contact_number">Phone: 0831234567</string>
+    <string name="contact_email">Email: drawings@gmail.com</string>
+    <string name="euro">€</string>
+    <string name="order">Order</string>
+    <string name="about_me_title">About Me</string>
+    <string name="cart_title">Shopping Cart</string>
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="main_title">Drawings by Elle</string>
+    <string name="retry">Retry</string>
+    <string name="thanks_title">Thank You</string>
+
+    <string-array name="size_array">
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+    </string-array>
+
+    <string-array name="quantity_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="counties_array">
+        <item>Antrim</item>
+        <item>Armagh</item>
+        <item>Carlow</item>
+        <item>Cavan</item>
+        <item>Clare</item>
+        <item>Cork</item>
+        <item>Derry</item>
+        <item>Donegal</item>
+        <item>Down</item>
+        <item>Dublin</item>
+        <item>Fermanagh</item>
+        <item>Galway</item>
+        <item>Kerry</item>
+        <item>Kildare</item>
+        <item>Kilkenny</item>
+        <item>Laois</item>
+        <item>Leitrim</item>
+        <item>Limerick</item>
+        <item>Longford</item>
+        <item>Louth</item>
+        <item>Mayo</item>
+        <item>Meath</item>
+        <item>Monaghan</item>
+        <item>Offaly</item>
+        <item>Roscommon</item>
+        <item>Sligo</item>
+        <item>Tipperary</item>
+        <item>Tyrone</item>
+        <item>Waterford</item>
+        <item>Westmeath</item>
+        <item>Wexford</item>
+        <item>Wicklow</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

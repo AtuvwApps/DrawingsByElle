@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815537101901",
+    "firebase_url": "https://drawings-by-laura.firebaseio.com",
+    "project_id": "drawings-by-laura",
+    "storage_bucket": "drawings-by-laura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815537101901:android:5c198004d1ffbb975a1004",
+        "android_client_info": {
+          "package_name": "com.atuvwapps.drawingsbyelle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815537101901-mf7gq288s65vvkv9ecs2g0h8f5nqifas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU4cDydXicwEyMCW_efD6PLCGDwqTtWOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815537101901-mf7gq288s65vvkv9ecs2g0h8f5nqifas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
